@@ -7,7 +7,7 @@ Fork this repo and pull request the solution below. Clarification question? Post
 
 ## The solution
 
-<!-- Fill in your answer here -->
+Fill in your answer here...
 
 ## Bonus
 
